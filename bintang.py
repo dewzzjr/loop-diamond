@@ -5,6 +5,7 @@ n = 4
 # ***
 # ****
 
+# untuk membuat bagian atas
 i = 0
 while i < n:
     b = i + 1
@@ -21,6 +22,7 @@ while i < n:
 # **
 # *
 
+# untuk membuat bagian bawah
 n = 0
 i = 4
 while i > n:
